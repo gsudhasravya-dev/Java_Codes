@@ -12,8 +12,7 @@ public class prog73{
                 System.out.println("higher");
             }
             System.out.println("Enter another guess:");
-            int artifi=sc.nextInt();
-            guess=artifi;
+            guess=sc.nextInt();
         }
         System.out.println("You won");
     }
